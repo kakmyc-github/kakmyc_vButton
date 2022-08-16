@@ -1,0 +1,5 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+kakmyc_vButton	KEYWORD1
+read	KEYWORD1
